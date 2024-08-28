@@ -1,0 +1,34 @@
+.details-banner {
+    position:relative;
+}
+
+.details-banner-img img{
+    width:100%;
+    height:500px;
+    object-fit: cover;
+}
+
+.details-banner-title {
+    position: absolute;
+    color: white;
+    bottom: 80px;
+    left: 0%;
+    background-color: black;
+}
+
+.details-banner-genre{
+    position:absolute; 
+    color:white;
+    bottom: 50px;
+    left:0%;
+}
+
+.Trailer{
+    position:absolute; 
+    color:white;
+    bottom: 20px;
+    left:0%;
+    background-color: red;
+    border:solid;
+    border-color: black;
+}
